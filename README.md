@@ -9,7 +9,7 @@ optimize is the mean (non-weighted) ROC AUC score for all classes.
 
 
 ## Files
-This project contains 4 files:
+This project contains 3 files:
 * data_analysis.ipynb - This file contains the code we used for the data exploration. It contains graphs 
   and explanations. Using the information in this file we learned about the data and made decisions about feature engineering and about the model we chose to build.
 
